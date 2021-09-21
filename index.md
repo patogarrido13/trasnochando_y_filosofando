@@ -12,6 +12,8 @@ y la mejor excusa también.
 ## Solo una página más de pensamientos nocturnos
 
 Bienvenidos a mi página de `filosofía` nocturna!! Es esta solo una pagina más, eso seguro, pero espero los lectores nocturnos puedan encontrar algo de valor en
-las múltiples palabras aquí dispuestas. Si logro ser al menos una pequeña chispa en la oscuridad de sus penumbras, me daré por bien servido!!
+las múltiples palabras aquí dispuestas. Estaré marcando con XML/TEI algunos fragmentos de mi elección y comentaré una que otra cosa sobre ellos.
+
+Si logro ser al menos una pequeña chispa en la oscuridad de sus penumbras, me daré por bien servido!!
 
 
