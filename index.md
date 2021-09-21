@@ -14,6 +14,6 @@ y la mejor excusa también.
 Bienvenidos a mi página de `filosofía` nocturna!! Es esta solo una pagina más, eso seguro, pero espero los lectores nocturnos puedan encontrar algo de valor en
 las múltiples palabras aquí dispuestas. Estaré marcando con XML / TEI algunos fragmentos de mi elección y comentaré una que otra cosa sobre ellos. 
 
-Si esta págima puede ser, al menos una pequeñísima chispa en las penumbras, me daré por bien servido!!
+Si esta página puede ser, al menos una pequeñísima chispa en las penumbras, me daré por bien servido!!
 
 ¡Ayyy y muchas otras cosaaaasss, wuuuuuuuuuuu!
