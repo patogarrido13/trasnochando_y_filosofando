@@ -2,9 +2,9 @@
 layout: home
 ---
 
-Definitivamente, trasnochar no es bueno para la salud.\n
-Pero si en algún momento te encuentras con la maldición del velador nocturno, \n 
-notarás que es un momento ideal para filosofar... \n
+Definitivamente, trasnochar no es bueno para la salud.
+Pero si en algún momento te encuentras con la maldición del velador nocturno,
+notarás que es un momento ideal para filosofar...
 y la mejor excusa también.
 
 # Trasnochando y filosofando
