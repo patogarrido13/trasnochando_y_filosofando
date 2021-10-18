@@ -7,4 +7,4 @@ author:
 description: "El mejor sitio con los mejores fragmentos y reflexiones filosóficas."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-merlot
