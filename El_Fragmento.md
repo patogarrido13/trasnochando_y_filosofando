@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actividad 2
+title: El Fragmento
 ---
 
 # El Fragmento
